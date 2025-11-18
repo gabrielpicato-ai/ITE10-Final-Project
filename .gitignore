@@ -416,3 +416,13 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# VS Code settings
+.vscode/
+
+# Node modules (if any)
+node_modules/
+
+# System files
+.DS_Store
+*.log
